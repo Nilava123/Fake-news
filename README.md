@@ -14,4 +14,4 @@ Fake news detection using ML
 12)Finding the confusion matrix of the predicted test label with the original test set.
 DATASET-https://www.kaggle.com/c/fake-news/data?select=train.csv
 LOGISTIC REGRESSION-https://medium.com/swlh/the-math-behind-logistic-regression-1f6eef7ea940
-How to execute the code- a)Download jupyter notebook b)download ipynb file c)In jupyter notebook add the downloaded ipynb file as a folder and run the code
+How to execute the code- a)Download jupyter notebook b)download ipynb file c)In jupyter notebook add the downloaded ipynb file and run the code
